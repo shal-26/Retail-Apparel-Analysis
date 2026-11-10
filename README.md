@@ -4,28 +4,6 @@
 This repository contains an end-to-end analytics project exploring retail store and apparel performance. The analysis is supported by comprehensive data models, KPIs, and visual dashboards designed to answer critical operational and strategic questions.
 
 ---
-## 📊 Dashboard Previews
-
-Below are previews of the Power BI dashboard views tailored for each key stakeholder:
-
-### 1. Store Manager View
-*A concise overview focused on immediate, actionable store-level metrics and product performance.*
-<p align="center">
-  <img src="assets/store-manager-view.png" alt="Store Manager View" width="850">
-</p>
-
-### 2. VP of Merchandising View
-*Deep-dive insights evaluating category performance, loyalty metrics, and margins.*
-<p align="center">
-  <img src="assets/vp-merchandising-view.png" alt="VP of Merchandising View" width="850">
-</p>
-
-### 3. Senior Operations View
-*A strategic view tracking regional trends, monthly performance, and conversion rates.*
-<p align="center">
-  <img src="assets/senior-operations-view.png" alt="Senior Operations View" width="850">
-</p>
-
 
 ## 🔍 Key Business Questions Addressed
 This project provides data-driven answers to the following core questions:
@@ -54,9 +32,33 @@ A single, cohesive Power BI dashboard (`Retail Apparel Analysis.pbix`) was built
 
 Each view was meticulously designed with its specific audience's priorities, time constraints, and decision-making needs in mind.
 
+
+## 📊 Dashboard Previews
+
+Below are previews of the Power BI dashboard views tailored for each key stakeholder:
+
+### 1. Store Manager View
+*A concise overview focused on immediate, actionable store-level metrics and product performance.*
+<p align="center">
+  <img src="assets/store-manager-view.png" alt="Store Manager View" width="850">
+</p>
+
+### 2. VP of Merchandising View
+*Deep-dive insights evaluating category performance, loyalty metrics, and margins.*
+<p align="center">
+  <img src="assets/vp-merchandising-view.png" alt="VP of Merchandising View" width="850">
+</p>
+
+### 3. Senior Operations View
+*A strategic view tracking regional trends, monthly performance, and conversion rates.*
+<p align="center">
+  <img src="assets/senior-operations-view.png" alt="Senior Operations View" width="850">
+</p>
+
+
 ---
 
 ## 📂 Repository Contents
 * `README.md`: Project documentation and overview.
 * `Retail Apparel Analysis.pbix`: Interactive Power BI dashboard file.
-* `Retail_Apparel_Analysis.ipynb`: Jupyter Notebook containing the data preparation, transformation, and analytical code.
+* `Retail_Apparel_Analysis.ipynb`: Colab Notebook containing the data preparation, transformation, and analytical code.
