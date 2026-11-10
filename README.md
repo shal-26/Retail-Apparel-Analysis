@@ -24,13 +24,13 @@ This project provides data-driven answers to the following core questions:
 A single, cohesive Power BI dashboard (`Retail Apparel Analysis.pbix`) was built to present tailored data views for three distinct key audiences:
 
 1. **Store Manager**
-   * *Focus:* A concise, five-minute Monday-morning overview focused on immediate, actionable insights.
+    A concise, five-minute Monday-morning overview focused on immediate, actionable insights.
 2. **VP of Merchandising**
-   * *Focus:* Deep-dive data and insights necessary to evaluate whether past promotions should be repeated.
+    Deep-dive data and insights necessary to evaluate whether past promotions should be repeated.
 3. **Senior Merchandising / Operations Manager**
-   * *Focus:* A broader, strategic view reflecting overall business performance and long-term trends.
+    A broader, strategic view reflecting overall business performance and long-term trends.
 
-*Each view was meticulously designed with its specific audience's priorities, time constraints, and decision-making needs in mind.*
+Each view was meticulously designed with its specific audience's priorities, time constraints, and decision-making needs in mind.
 
 ---
 
